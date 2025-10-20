@@ -2,7 +2,12 @@ I'm Ben the below is a series of small but hopefully interesting bits of info ab
 I’m interested in coding, science, engineering, learning anything in general.
 
 
-Currently learning Python and C# to hopefully create something useful!
+Currently learning Java & TS to hopefully create something useful!
+
+Also at Uni + work in a tech company.
+
+Working on TypeScript at work and Java in University.
+ 
 IF YOU want to chat:
 benmellor17@gmail.com
 www.benmellor.com
