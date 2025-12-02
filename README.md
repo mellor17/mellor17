@@ -3,10 +3,6 @@ I’m interested in coding, science (space+physics+most fields), engineering, le
 
 
 Currently learning Java & TS to hopefully create something useful!
-
-Also at Uni + work in a tech company.
-
-Working on TypeScript at work and Java in University.
  
 IF YOU want to chat:
 ben.mellor@melltech.co.uk
